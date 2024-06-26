@@ -1,5 +1,5 @@
 ## TODO LIST
--user can add a new Todo
--user can delete a Todo
--user can update a Todo
+-user can add a new Todo<br/>
+-user can delete a Todo<br/>
+-user can update a Todo<br/>
 -user can read Todo
